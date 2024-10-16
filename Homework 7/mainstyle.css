@@ -1,0 +1,11 @@
+
+#big{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span.med{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
