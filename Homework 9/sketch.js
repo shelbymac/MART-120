@@ -48,4 +48,8 @@ function draw()
     rect(235, 265, 150, 40);
     fill(200);
     rect(445, 69, 20, 112);
+    textSize(50);
+    text('DISASSEMBLED', 50, 75);
+    textSize(15);
+    text('Shelby', 525, 675);
 }
